@@ -1,8 +1,8 @@
-#Bucket Storage Backup Script
+# Bucket Storage Backup Script
 
 A small script to create backups of a datastore into a Google Cloud Bucket.
 
-###Installation
+### Installation
 
 1. Have Git installed on a Google Cloud Console enabled VM with all privileges
 
