@@ -39,5 +39,5 @@ So that it looks like the code below:
 
 ```sh
 MAILTO=johndoe@example.com
-0 * * * * sh /home/{{username}}/clocoss-4/cron.sh
+0 * * * * sh /home/john_doe/clocoss-4/cron.sh
 ```
